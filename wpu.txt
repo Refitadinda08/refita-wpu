@@ -1,5 +1,5 @@
 -Belajar Github
 -Mencoba menggunakan Git
 -mulai belajar java script
--belajar bostrap 
--mencoba membuat portofolio
+-mencoba membuat portofolio 
+-membuat mini project
