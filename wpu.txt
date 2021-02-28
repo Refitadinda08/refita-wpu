@@ -1,0 +1,4 @@
+-Belajar Github
+-Mencoba menggunakan Git
+-mulai belajar java script
+
